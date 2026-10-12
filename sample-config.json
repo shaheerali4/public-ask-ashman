@@ -1,0 +1,6 @@
+{
+  "mode": "demo",
+  "apiBaseUrl": "https://example.invalid",
+  "credentialsIncluded": false,
+  "note": "Illustrative configuration only"
+}
